@@ -147,7 +147,7 @@ h2 {
 }
 
 .member img {
-    width: 200px; /* Fixed size for images */
+    width: 225px; /* Fixed size for images */
     height: 300px;
     object-fit: cover;
     margin-bottom: 15px;
