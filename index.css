@@ -212,6 +212,15 @@ h4 {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
+.maplink {
+    text-decoration: none;
+    color: black;
+}
+
+.maplink:hover {
+    color: #EF8C26;
+}
+
 /* Footer */
 footer {
     display: flex;             
